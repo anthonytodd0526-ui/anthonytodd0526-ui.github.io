@@ -2,7 +2,7 @@
 
 ## About me
 
-I am studying computational methods and operations research at the Naval Postgraduate School. This is where I share my Python projects and coursework.
+I am studying operations research at the Naval Postgraduate School. This is where I share my Python projects and coursework.
 
 ## Projects
 
@@ -23,10 +23,8 @@ My general repository for Python projects, data analysis, visualization, and int
 
 Python, JupyterLab, Streamlit, and GitHub.
 
-## GitHub
+## Contact
 
-[My profile](https://github.com/anthonytodd0526-ui)
-
-## Credits
-
-The QR app and portfolio follow LTC Smith's OA3801 practical exercises. OpenAI Codex (2026-09-14) helped write and check the code, portfolio text, and setup.
+- [anthonytodd0526@gmail.com](mailto:anthonytodd0526@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/anthony-todd-013a0a381/)
+- [GitHub](https://github.com/anthonytodd0526-ui)
